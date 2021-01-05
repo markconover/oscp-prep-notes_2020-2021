@@ -1,8 +1,8 @@
 # site_name: 'My notes'
 site_description: Stuff I don't feel like googeling again
-site_author: xapax
+site_author: markconover
 
-repo_url: https://github.com/xapax
+repo_url: https://github.com/markconover
 
 site_name: Notes
 nav:
